@@ -62,3 +62,20 @@ ul li {
     margin: 0;
     color: #444;
 }
+
+.Education {
+    margin-top: 15px;
+}
+
+.Education h3 {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+.Education p {
+    margin: 4px 0 0 0;
+    font-size: 0.95rem;
+    color: #555;
+}
+
